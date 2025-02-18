@@ -1,0 +1,1658 @@
+[
+  {
+    "image_path": "combo1_player1_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0002.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0003.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0004.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0005.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0006.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0007.jpg",
+    "label": "Powver Crush"
+  },
+  {
+    "image_path": "combo1_player1_frame_0008.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0010.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0011.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0012.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0013.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0014.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player1_frame_0015.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo1_player2_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player2_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player2_frame_0002.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0003.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0004.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0005.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0006.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0007.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0008.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0009.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0010.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo1_player2_frame_0011.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player2_frame_0012.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player2_frame_0013.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player2_frame_0014.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo1_player2_frame_0015.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0002.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0003.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo2_player1_frame_0004.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0005.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0006.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0007.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo2_player1_frame_0008.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0010.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0011.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0012.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0013.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0014.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0015.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0016.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0017.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0018.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0019.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0020.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0021.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0022.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0023.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0024.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0025.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0026.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0027.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0028.jpg",
+    "label": "Downed"
+  },
+  {
+    "image_path": "combo2_player1_frame_0029.jpg",
+    "label": "Downed"
+  },
+  {
+    "image_path": "combo2_player1_frame_0030.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0031.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0032.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player1_frame_0033.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo2_player1_frame_0034.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo2_player1_frame_0035.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0002.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0003.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0004.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0005.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo2_player2_frame_0006.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0007.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0008.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0010.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0011.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0012.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0013.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0014.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0015.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0016.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0017.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo2_player2_frame_0018.jpg",
+    "label": "Downed"
+  },
+  {
+    "image_path": "combo2_player2_frame_0019.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0020.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo2_player2_frame_0021.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0022.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0023.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0024.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0025.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0026.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0027.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0028.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0029.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0030.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0031.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0032.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0033.jpg",
+    "label": "Power Crush"
+  },
+  {
+    "image_path": "combo2_player2_frame_0034.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo2_player2_frame_0035.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0002.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0003.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0004.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0005.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0006.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0007.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0008.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0010.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0011.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0012.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0013.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0014.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0015.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0016.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0017.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0018.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0019.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0020.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0021.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0022.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0023.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0024.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo3_player1_frame_0025.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0026.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0027.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0028.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0029.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0030.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0031.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo3_player1_frame_0032.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0033.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0034.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0035.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0036.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0037.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0038.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0039.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0040.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0041.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0042.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0043.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0044.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0045.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0046.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0047.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0048.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0049.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0050.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0051.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0052.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0053.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0054.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player1_frame_0055.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0056.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0057.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0058.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0059.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player1_frame_0060.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0000.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo3_player2_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0002.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0003.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0004.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0005.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0006.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0007.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0008.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0010.jpg",
+    "label": "Power Crush"
+  },
+  {
+    "image_path": "combo3_player2_frame_0011.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0012.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0013.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo3_player2_frame_0014.jpg",
+    "label": "Downed"
+  },
+  {
+    "image_path": "combo3_player2_frame_0015.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0016.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0017.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0018.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0019.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0020.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0021.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo3_player2_frame_0022.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0023.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0024.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0025.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo3_player2_frame_0026.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0027.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0028.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0029.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0030.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0031.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0032.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0033.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0034.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0035.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0036.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0037.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0038.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0039.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo3_player2_frame_0040.jpg",
+    "label": "Power Crush"
+  },
+  {
+    "image_path": "combo3_player2_frame_0041.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0042.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0043.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo3_player2_frame_0044.jpg",
+    "label": "Downed"
+  },
+  {
+    "image_path": "combo3_player2_frame_0045.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0046.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0047.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0048.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0049.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0050.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0051.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0052.jpg",
+    "label": "Power Crush"
+  },
+  {
+    "image_path": "combo3_player2_frame_0053.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0054.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0055.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0056.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo3_player2_frame_0057.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo3_player2_frame_0058.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo3_player2_frame_0059.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo3_player2_frame_0060.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0002.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0003.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo4_player1_frame_0004.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0005.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0006.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0007.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0008.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0010.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0011.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo4_player1_frame_0012.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0013.jpg",
+    "label": "Powver Crush"
+  },
+  {
+    "image_path": "combo4_player1_frame_0014.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0015.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0016.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0017.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0018.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0019.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0020.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0021.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0022.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0023.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0024.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0025.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0026.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0027.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0028.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0029.jpg",
+    "label": "Powver Crush"
+  },
+  {
+    "image_path": "combo4_player1_frame_0030.jpg",
+    "label": "Powver Crush"
+  },
+  {
+    "image_path": "combo4_player1_frame_0031.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0032.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player1_frame_0033.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0034.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player1_frame_0035.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo4_player2_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0001.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0002.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0003.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0004.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0005.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0006.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0007.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0008.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0010.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0011.jpg",
+    "label": "Power Crush"
+  },
+  {
+    "image_path": "combo4_player2_frame_0012.jpg",
+    "label": "Power Crush"
+  },
+  {
+    "image_path": "combo4_player2_frame_0013.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0014.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0015.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0016.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0017.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0018.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0019.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0020.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0021.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0022.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0023.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo4_player2_frame_0024.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo4_player2_frame_0025.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo4_player2_frame_0026.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo4_player2_frame_0027.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0028.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0029.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0030.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0031.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0032.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0033.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0034.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo4_player2_frame_0035.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0002.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0003.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0004.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo5_player1_frame_0005.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0006.jpg",
+    "label": "Downed"
+  },
+  {
+    "image_path": "combo5_player1_frame_0007.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0008.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0009.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0010.jpg",
+    "label": "Powver Crush"
+  },
+  {
+    "image_path": "combo5_player1_frame_0011.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0012.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0013.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0014.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0015.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0016.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0017.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0018.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0019.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0020.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0021.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0022.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0023.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo5_player1_frame_0024.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player1_frame_0025.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0026.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0027.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0028.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0029.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0030.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0031.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0032.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0033.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0034.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo5_player1_frame_0035.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0036.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0037.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0038.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo5_player1_frame_0039.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo5_player1_frame_0040.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0041.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo5_player1_frame_0042.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0043.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo5_player1_frame_0044.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0045.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0046.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0047.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0048.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0049.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0050.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0051.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0052.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0053.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0054.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0055.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0056.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player1_frame_0057.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0000.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0001.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0002.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0003.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0004.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0005.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0006.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0007.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0008.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo5_player2_frame_0009.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0010.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0011.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo5_player2_frame_0012.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0013.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0014.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0015.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0016.jpg",
+    "label": "Invincible"
+  },
+  {
+    "image_path": "combo5_player2_frame_0017.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0018.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0019.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0020.jpg",
+    "label": "Power Crush"
+  },
+  {
+    "image_path": "combo5_player2_frame_0021.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0022.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0023.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0024.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0025.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0026.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0027.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo5_player2_frame_0028.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0029.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0030.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0031.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0032.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0033.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0034.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0035.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0036.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0037.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0038.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0039.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0040.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0041.jpg",
+    "label": "Downed"
+  },
+  {
+    "image_path": "combo5_player2_frame_0042.jpg",
+    "label": "Crouching"
+  },
+  {
+    "image_path": "combo5_player2_frame_0043.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0044.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0045.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0046.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0047.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0048.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0049.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0050.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0051.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0052.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0053.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0054.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0055.jpg",
+    "label": "Airborne"
+  },
+  {
+    "image_path": "combo5_player2_frame_0056.jpg",
+    "label": "Standing"
+  },
+  {
+    "image_path": "combo5_player2_frame_0057.jpg",
+    "label": "Crouching"
+  }
+]

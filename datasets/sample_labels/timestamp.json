@@ -1,0 +1,1658 @@
+[
+  {
+    "image_path": "combo1_player1_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo1_player1_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo1_player1_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo1_player1_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo1_player1_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo1_player1_frame_0005.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo1_player1_frame_0006.jpg",
+    "label": "6"
+  },
+  {
+    "image_path": "combo1_player1_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo1_player1_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo1_player1_frame_0009.jpg",
+    "label": "51"
+  },
+  {
+    "image_path": "combo1_player1_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo1_player1_frame_0011.jpg",
+    "label": "9"
+  },
+  {
+    "image_path": "combo1_player1_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo1_player1_frame_0013.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo1_player1_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo1_player1_frame_0015.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo1_player2_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo1_player2_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo1_player2_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo1_player2_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo1_player2_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo1_player2_frame_0005.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo1_player2_frame_0006.jpg",
+    "label": "6"
+  },
+  {
+    "image_path": "combo1_player2_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo1_player2_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo1_player2_frame_0009.jpg",
+    "label": "51"
+  },
+  {
+    "image_path": "combo1_player2_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo1_player2_frame_0011.jpg",
+    "label": "9"
+  },
+  {
+    "image_path": "combo1_player2_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo1_player2_frame_0013.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo1_player2_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo1_player2_frame_0015.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo2_player1_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo2_player1_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo2_player1_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo2_player1_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo2_player1_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo2_player1_frame_0005.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo2_player1_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo2_player1_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo2_player1_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo2_player1_frame_0009.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo2_player1_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo2_player1_frame_0011.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo2_player1_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo2_player1_frame_0013.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo2_player1_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo2_player1_frame_0015.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo2_player1_frame_0016.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo2_player1_frame_0017.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo2_player1_frame_0018.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo2_player1_frame_0019.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo2_player1_frame_0020.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo2_player1_frame_0021.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo2_player1_frame_0022.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo2_player1_frame_0023.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo2_player1_frame_0024.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo2_player1_frame_0025.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo2_player1_frame_0026.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo2_player1_frame_0027.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo2_player1_frame_0028.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo2_player1_frame_0029.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo2_player1_frame_0030.jpg",
+    "label": "31"
+  },
+  {
+    "image_path": "combo2_player1_frame_0031.jpg",
+    "label": "30"
+  },
+  {
+    "image_path": "combo2_player1_frame_0032.jpg",
+    "label": "29"
+  },
+  {
+    "image_path": "combo2_player1_frame_0033.jpg",
+    "label": "28"
+  },
+  {
+    "image_path": "combo2_player1_frame_0034.jpg",
+    "label": "27"
+  },
+  {
+    "image_path": "combo2_player1_frame_0035.jpg",
+    "label": "26"
+  },
+  {
+    "image_path": "combo2_player2_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo2_player2_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo2_player2_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo2_player2_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo2_player2_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo2_player2_frame_0005.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo2_player2_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo2_player2_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo2_player2_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo2_player2_frame_0009.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo2_player2_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo2_player2_frame_0011.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo2_player2_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo2_player2_frame_0013.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo2_player2_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo2_player2_frame_0015.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo2_player2_frame_0016.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo2_player2_frame_0017.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo2_player2_frame_0018.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo2_player2_frame_0019.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo2_player2_frame_0020.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo2_player2_frame_0021.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo2_player2_frame_0022.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo2_player2_frame_0023.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo2_player2_frame_0024.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo2_player2_frame_0025.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo2_player2_frame_0026.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo2_player2_frame_0027.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo2_player2_frame_0028.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo2_player2_frame_0029.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo2_player2_frame_0030.jpg",
+    "label": "31"
+  },
+  {
+    "image_path": "combo2_player2_frame_0031.jpg",
+    "label": "30"
+  },
+  {
+    "image_path": "combo2_player2_frame_0032.jpg",
+    "label": "29"
+  },
+  {
+    "image_path": "combo2_player2_frame_0033.jpg",
+    "label": "28"
+  },
+  {
+    "image_path": "combo2_player2_frame_0034.jpg",
+    "label": "27"
+  },
+  {
+    "image_path": "combo2_player2_frame_0035.jpg",
+    "label": "26"
+  },
+  {
+    "image_path": "combo3_player1_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo3_player1_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo3_player1_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo3_player1_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo3_player1_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo3_player1_frame_0005.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo3_player1_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo3_player1_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo3_player1_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo3_player1_frame_0009.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo3_player1_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo3_player1_frame_0011.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo3_player1_frame_0012.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo3_player1_frame_0013.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo3_player1_frame_0014.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo3_player1_frame_0015.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo3_player1_frame_0016.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo3_player1_frame_0017.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo3_player1_frame_0018.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo3_player1_frame_0019.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo3_player1_frame_0020.jpg",
+    "label": "Ah_"
+  },
+  {
+    "image_path": "combo3_player1_frame_0021.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo3_player1_frame_0022.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo3_player1_frame_0023.jpg",
+    "label": ""
+  },
+  {
+    "image_path": "combo3_player1_frame_0024.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo3_player1_frame_0025.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo3_player1_frame_0026.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo3_player1_frame_0027.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo3_player1_frame_0028.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo3_player1_frame_0029.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo3_player1_frame_0030.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo3_player1_frame_0031.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo3_player1_frame_0032.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo3_player1_frame_0033.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo3_player1_frame_0034.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo3_player1_frame_0035.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo3_player1_frame_0036.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo3_player1_frame_0037.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo3_player1_frame_0038.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo3_player1_frame_0039.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo3_player1_frame_0040.jpg",
+    "label": "51"
+  },
+  {
+    "image_path": "combo3_player1_frame_0041.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo3_player1_frame_0042.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo3_player1_frame_0043.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo3_player1_frame_0044.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo3_player1_frame_0045.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo3_player1_frame_0046.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo3_player1_frame_0047.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo3_player1_frame_0048.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo3_player1_frame_0049.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo3_player1_frame_0050.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo3_player1_frame_0051.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo3_player1_frame_0052.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo3_player1_frame_0053.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo3_player1_frame_0054.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo3_player1_frame_0055.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo3_player1_frame_0056.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo3_player1_frame_0057.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo3_player1_frame_0058.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo3_player1_frame_0059.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo3_player1_frame_0060.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo3_player2_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo3_player2_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo3_player2_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo3_player2_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo3_player2_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo3_player2_frame_0005.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo3_player2_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo3_player2_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo3_player2_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo3_player2_frame_0009.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo3_player2_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo3_player2_frame_0011.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo3_player2_frame_0012.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo3_player2_frame_0013.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo3_player2_frame_0014.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo3_player2_frame_0015.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo3_player2_frame_0016.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo3_player2_frame_0017.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo3_player2_frame_0018.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo3_player2_frame_0019.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo3_player2_frame_0020.jpg",
+    "label": "Ah_"
+  },
+  {
+    "image_path": "combo3_player2_frame_0021.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo3_player2_frame_0022.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo3_player2_frame_0023.jpg",
+    "label": ""
+  },
+  {
+    "image_path": "combo3_player2_frame_0024.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo3_player2_frame_0025.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo3_player2_frame_0026.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo3_player2_frame_0027.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo3_player2_frame_0028.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo3_player2_frame_0029.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo3_player2_frame_0030.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo3_player2_frame_0031.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo3_player2_frame_0032.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo3_player2_frame_0033.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo3_player2_frame_0034.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo3_player2_frame_0035.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo3_player2_frame_0036.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo3_player2_frame_0037.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo3_player2_frame_0038.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo3_player2_frame_0039.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo3_player2_frame_0040.jpg",
+    "label": "51"
+  },
+  {
+    "image_path": "combo3_player2_frame_0041.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo3_player2_frame_0042.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo3_player2_frame_0043.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo3_player2_frame_0044.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo3_player2_frame_0045.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo3_player2_frame_0046.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo3_player2_frame_0047.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo3_player2_frame_0048.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo3_player2_frame_0049.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo3_player2_frame_0050.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo3_player2_frame_0051.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo3_player2_frame_0052.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo3_player2_frame_0053.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo3_player2_frame_0054.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo3_player2_frame_0055.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo3_player2_frame_0056.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo3_player2_frame_0057.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo3_player2_frame_0058.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo3_player2_frame_0059.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo3_player2_frame_0060.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo4_player1_frame_0000.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo4_player1_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo4_player1_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo4_player1_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo4_player1_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo4_player1_frame_0005.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo4_player1_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo4_player1_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo4_player1_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo4_player1_frame_0009.jpg",
+    "label": "51"
+  },
+  {
+    "image_path": "combo4_player1_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo4_player1_frame_0011.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo4_player1_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo4_player1_frame_0013.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo4_player1_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo4_player1_frame_0015.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo4_player1_frame_0016.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo4_player1_frame_0017.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo4_player1_frame_0018.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo4_player1_frame_0019.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo4_player1_frame_0020.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo4_player1_frame_0021.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo4_player1_frame_0022.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo4_player1_frame_0023.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo4_player1_frame_0024.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo4_player1_frame_0025.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo4_player1_frame_0026.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo4_player1_frame_0027.jpg",
+    "label": "84"
+  },
+  {
+    "image_path": "combo4_player1_frame_0028.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo4_player1_frame_0029.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo4_player1_frame_0030.jpg",
+    "label": "31"
+  },
+  {
+    "image_path": "combo4_player1_frame_0031.jpg",
+    "label": "30"
+  },
+  {
+    "image_path": "combo4_player1_frame_0032.jpg",
+    "label": "29"
+  },
+  {
+    "image_path": "combo4_player1_frame_0033.jpg",
+    "label": "28"
+  },
+  {
+    "image_path": "combo4_player1_frame_0034.jpg",
+    "label": "27"
+  },
+  {
+    "image_path": "combo4_player1_frame_0035.jpg",
+    "label": "26"
+  },
+  {
+    "image_path": "combo4_player2_frame_0000.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo4_player2_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo4_player2_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo4_player2_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo4_player2_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo4_player2_frame_0005.jpg",
+    "label": "55"
+  },
+  {
+    "image_path": "combo4_player2_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo4_player2_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo4_player2_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo4_player2_frame_0009.jpg",
+    "label": "51"
+  },
+  {
+    "image_path": "combo4_player2_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo4_player2_frame_0011.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo4_player2_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo4_player2_frame_0013.jpg",
+    "label": "47"
+  },
+  {
+    "image_path": "combo4_player2_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo4_player2_frame_0015.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo4_player2_frame_0016.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo4_player2_frame_0017.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo4_player2_frame_0018.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo4_player2_frame_0019.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo4_player2_frame_0020.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo4_player2_frame_0021.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo4_player2_frame_0022.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo4_player2_frame_0023.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo4_player2_frame_0024.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo4_player2_frame_0025.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo4_player2_frame_0026.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo4_player2_frame_0027.jpg",
+    "label": "84"
+  },
+  {
+    "image_path": "combo4_player2_frame_0028.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo4_player2_frame_0029.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo4_player2_frame_0030.jpg",
+    "label": "31"
+  },
+  {
+    "image_path": "combo4_player2_frame_0031.jpg",
+    "label": "30"
+  },
+  {
+    "image_path": "combo4_player2_frame_0032.jpg",
+    "label": "29"
+  },
+  {
+    "image_path": "combo4_player2_frame_0033.jpg",
+    "label": "28"
+  },
+  {
+    "image_path": "combo4_player2_frame_0034.jpg",
+    "label": "27"
+  },
+  {
+    "image_path": "combo4_player2_frame_0035.jpg",
+    "label": "26"
+  },
+  {
+    "image_path": "combo5_player1_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo5_player1_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo5_player1_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo5_player1_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo5_player1_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo5_player1_frame_0005.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo5_player1_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo5_player1_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo5_player1_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo5_player1_frame_0009.jpg",
+    "label": "61"
+  },
+  {
+    "image_path": "combo5_player1_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo5_player1_frame_0011.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo5_player1_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo5_player1_frame_0013.jpg",
+    "label": ""
+  },
+  {
+    "image_path": "combo5_player1_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo5_player1_frame_0015.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo5_player1_frame_0016.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo5_player1_frame_0017.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo5_player1_frame_0018.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo5_player1_frame_0019.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo5_player1_frame_0020.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo5_player1_frame_0021.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo5_player1_frame_0022.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo5_player1_frame_0023.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo5_player1_frame_0024.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo5_player1_frame_0025.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo5_player1_frame_0026.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo5_player1_frame_0027.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo5_player1_frame_0028.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo5_player1_frame_0029.jpg",
+    "label": "31"
+  },
+  {
+    "image_path": "combo5_player1_frame_0030.jpg",
+    "label": "30"
+  },
+  {
+    "image_path": "combo5_player1_frame_0031.jpg",
+    "label": "29"
+  },
+  {
+    "image_path": "combo5_player1_frame_0032.jpg",
+    "label": "28"
+  },
+  {
+    "image_path": "combo5_player1_frame_0033.jpg",
+    "label": "27"
+  },
+  {
+    "image_path": "combo5_player1_frame_0034.jpg",
+    "label": "26"
+  },
+  {
+    "image_path": "combo5_player1_frame_0035.jpg",
+    "label": "25"
+  },
+  {
+    "image_path": "combo5_player1_frame_0036.jpg",
+    "label": "24"
+  },
+  {
+    "image_path": "combo5_player1_frame_0037.jpg",
+    "label": "23"
+  },
+  {
+    "image_path": "combo5_player1_frame_0038.jpg",
+    "label": "22"
+  },
+  {
+    "image_path": "combo5_player1_frame_0039.jpg",
+    "label": "21"
+  },
+  {
+    "image_path": "combo5_player1_frame_0040.jpg",
+    "label": "20"
+  },
+  {
+    "image_path": "combo5_player1_frame_0041.jpg",
+    "label": "19"
+  },
+  {
+    "image_path": "combo5_player1_frame_0042.jpg",
+    "label": "18"
+  },
+  {
+    "image_path": "combo5_player1_frame_0043.jpg",
+    "label": "17"
+  },
+  {
+    "image_path": "combo5_player1_frame_0044.jpg",
+    "label": "16"
+  },
+  {
+    "image_path": "combo5_player1_frame_0045.jpg",
+    "label": "16"
+  },
+  {
+    "image_path": "combo5_player1_frame_0046.jpg",
+    "label": "114"
+  },
+  {
+    "image_path": "combo5_player1_frame_0047.jpg",
+    "label": "13"
+  },
+  {
+    "image_path": "combo5_player1_frame_0048.jpg",
+    "label": "2"
+  },
+  {
+    "image_path": "combo5_player1_frame_0049.jpg",
+    "label": ""
+  },
+  {
+    "image_path": "combo5_player1_frame_0050.jpg",
+    "label": "1T0"
+  },
+  {
+    "image_path": "combo5_player1_frame_0051.jpg",
+    "label": "09"
+  },
+  {
+    "image_path": "combo5_player1_frame_0052.jpg",
+    "label": "08"
+  },
+  {
+    "image_path": "combo5_player1_frame_0053.jpg",
+    "label": "01"
+  },
+  {
+    "image_path": "combo5_player1_frame_0054.jpg",
+    "label": "061"
+  },
+  {
+    "image_path": "combo5_player1_frame_0055.jpg",
+    "label": "05"
+  },
+  {
+    "image_path": "combo5_player1_frame_0056.jpg",
+    "label": "04"
+  },
+  {
+    "image_path": "combo5_player1_frame_0057.jpg",
+    "label": "03"
+  },
+  {
+    "image_path": "combo5_player2_frame_0000.jpg",
+    "label": "60"
+  },
+  {
+    "image_path": "combo5_player2_frame_0001.jpg",
+    "label": "59"
+  },
+  {
+    "image_path": "combo5_player2_frame_0002.jpg",
+    "label": "58"
+  },
+  {
+    "image_path": "combo5_player2_frame_0003.jpg",
+    "label": "57"
+  },
+  {
+    "image_path": "combo5_player2_frame_0004.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo5_player2_frame_0005.jpg",
+    "label": "56"
+  },
+  {
+    "image_path": "combo5_player2_frame_0006.jpg",
+    "label": "54"
+  },
+  {
+    "image_path": "combo5_player2_frame_0007.jpg",
+    "label": "53"
+  },
+  {
+    "image_path": "combo5_player2_frame_0008.jpg",
+    "label": "52"
+  },
+  {
+    "image_path": "combo5_player2_frame_0009.jpg",
+    "label": "61"
+  },
+  {
+    "image_path": "combo5_player2_frame_0010.jpg",
+    "label": "50"
+  },
+  {
+    "image_path": "combo5_player2_frame_0011.jpg",
+    "label": "49"
+  },
+  {
+    "image_path": "combo5_player2_frame_0012.jpg",
+    "label": "48"
+  },
+  {
+    "image_path": "combo5_player2_frame_0013.jpg",
+    "label": ""
+  },
+  {
+    "image_path": "combo5_player2_frame_0014.jpg",
+    "label": "46"
+  },
+  {
+    "image_path": "combo5_player2_frame_0015.jpg",
+    "label": "45"
+  },
+  {
+    "image_path": "combo5_player2_frame_0016.jpg",
+    "label": "44"
+  },
+  {
+    "image_path": "combo5_player2_frame_0017.jpg",
+    "label": "43"
+  },
+  {
+    "image_path": "combo5_player2_frame_0018.jpg",
+    "label": "42"
+  },
+  {
+    "image_path": "combo5_player2_frame_0019.jpg",
+    "label": "41"
+  },
+  {
+    "image_path": "combo5_player2_frame_0020.jpg",
+    "label": "40"
+  },
+  {
+    "image_path": "combo5_player2_frame_0021.jpg",
+    "label": "39"
+  },
+  {
+    "image_path": "combo5_player2_frame_0022.jpg",
+    "label": "38"
+  },
+  {
+    "image_path": "combo5_player2_frame_0023.jpg",
+    "label": "37"
+  },
+  {
+    "image_path": "combo5_player2_frame_0024.jpg",
+    "label": "36"
+  },
+  {
+    "image_path": "combo5_player2_frame_0025.jpg",
+    "label": "35"
+  },
+  {
+    "image_path": "combo5_player2_frame_0026.jpg",
+    "label": "34"
+  },
+  {
+    "image_path": "combo5_player2_frame_0027.jpg",
+    "label": "33"
+  },
+  {
+    "image_path": "combo5_player2_frame_0028.jpg",
+    "label": "32"
+  },
+  {
+    "image_path": "combo5_player2_frame_0029.jpg",
+    "label": "31"
+  },
+  {
+    "image_path": "combo5_player2_frame_0030.jpg",
+    "label": "30"
+  },
+  {
+    "image_path": "combo5_player2_frame_0031.jpg",
+    "label": "29"
+  },
+  {
+    "image_path": "combo5_player2_frame_0032.jpg",
+    "label": "28"
+  },
+  {
+    "image_path": "combo5_player2_frame_0033.jpg",
+    "label": "27"
+  },
+  {
+    "image_path": "combo5_player2_frame_0034.jpg",
+    "label": "26"
+  },
+  {
+    "image_path": "combo5_player2_frame_0035.jpg",
+    "label": "25"
+  },
+  {
+    "image_path": "combo5_player2_frame_0036.jpg",
+    "label": "24"
+  },
+  {
+    "image_path": "combo5_player2_frame_0037.jpg",
+    "label": "23"
+  },
+  {
+    "image_path": "combo5_player2_frame_0038.jpg",
+    "label": "22"
+  },
+  {
+    "image_path": "combo5_player2_frame_0039.jpg",
+    "label": "21"
+  },
+  {
+    "image_path": "combo5_player2_frame_0040.jpg",
+    "label": "20"
+  },
+  {
+    "image_path": "combo5_player2_frame_0041.jpg",
+    "label": "19"
+  },
+  {
+    "image_path": "combo5_player2_frame_0042.jpg",
+    "label": "18"
+  },
+  {
+    "image_path": "combo5_player2_frame_0043.jpg",
+    "label": "17"
+  },
+  {
+    "image_path": "combo5_player2_frame_0044.jpg",
+    "label": "16"
+  },
+  {
+    "image_path": "combo5_player2_frame_0045.jpg",
+    "label": "16"
+  },
+  {
+    "image_path": "combo5_player2_frame_0046.jpg",
+    "label": "114"
+  },
+  {
+    "image_path": "combo5_player2_frame_0047.jpg",
+    "label": "13"
+  },
+  {
+    "image_path": "combo5_player2_frame_0048.jpg",
+    "label": "2"
+  },
+  {
+    "image_path": "combo5_player2_frame_0049.jpg",
+    "label": ""
+  },
+  {
+    "image_path": "combo5_player2_frame_0050.jpg",
+    "label": "1T0"
+  },
+  {
+    "image_path": "combo5_player2_frame_0051.jpg",
+    "label": "09"
+  },
+  {
+    "image_path": "combo5_player2_frame_0052.jpg",
+    "label": "08"
+  },
+  {
+    "image_path": "combo5_player2_frame_0053.jpg",
+    "label": "01"
+  },
+  {
+    "image_path": "combo5_player2_frame_0054.jpg",
+    "label": "061"
+  },
+  {
+    "image_path": "combo5_player2_frame_0055.jpg",
+    "label": "05"
+  },
+  {
+    "image_path": "combo5_player2_frame_0056.jpg",
+    "label": "04"
+  },
+  {
+    "image_path": "combo5_player2_frame_0057.jpg",
+    "label": "03"
+  }
+]
