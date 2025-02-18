@@ -1,13 +1,13 @@
 # Manual Labeling Tool for OCR Dataset
 
-This repository contains a Python-based manual labeling tool for refining OCR-extracted text data. The tool uses EasyOCR to extract text from images and provides an interface for manual validation, making it suitable for fine-tuning OCR models such as PaddleOCR.
+This repository contains a Python-based manual labeling tool for refining OCR-extracted text data. The tool uses EasyOCR to extract text from images and provides an interface for manual validation, making it suitable for fine-tuning recognation OCR models such as PaddleOCR.
 
-## Fitur Utama
+## Features
 
 - Extract text from images using EasyOCR
 - Store extracted labels in JSON format
 - Manually validate and edit OCR results
-- Generate a clean dataset for fine-tuning OCR models
+- Generate a clean dataset for fine-tuning recognation OCR models
 
 ## Installation & Setup
 
