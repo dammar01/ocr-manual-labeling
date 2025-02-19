@@ -171,7 +171,7 @@ class LabelValidator:
 
                 current_idx += 1
 
-            self.save_progress(self.validated_labels)
+            # self.save_progress(self.validated_labels)
             print(f"\nProcessed {len(self.validated_labels)} of {total_images} images")
 
         except Exception as e:
