@@ -185,7 +185,7 @@ class LabelValidator:
 def main():
     try:
         # Configuration
-        name_bbox = "attack_startup_frames"
+        name_bbox = "damage"
         base_path = "./datasets"
         image_folder = os.path.join(base_path, "sample", name_bbox)
         label_file = os.path.join(base_path, "sample_labels", f"{name_bbox}.json")

@@ -18,7 +18,7 @@ def ocr_folder_for_paddleocr(folder_path: str, output_path: str):
     print(f"OCR results saved to {output_file}")
 
 
-folder_sample = "total_damage"
+folder_sample = "hit_combo"
 datasets_path = f"./datasets/sample/{folder_sample}"
 output_path = "./datasets/sample_labels/"
 ocr_folder_for_paddleocr(datasets_path, output_path)
